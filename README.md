@@ -14,7 +14,7 @@ This repository documents a structured, end-to-end Information Security Manageme
 - **Regulatory Analysis:** Translating BSIG/NIS2 legal obligations into operational governance.
 - **BSI Methodology:** Executing *Strukturanalyse*, *Schutzbedarfsfeststellung*, *Modellierung*, *IT-Grundschutz-Check* (BSI 200-2), and *Risikoanalyse* (BSI 200-3).
 - **Stakeholder & Evidence Management:** Handling incomplete information, conflicting operational priorities, and third-party vendor gaps.
-- **[06_ISO_27001_Mapping](./06_ISO_27001_Mapping)** | Cross-mapping BSI to ISO 27001 (Clauses 4–10, Annex A & SoA) | ISO/IEC 27001:2022 | 📅 Planned |
+- **Cross-Framework Mapping:** Bridging German BSI IT-Grundschutz controls with international **ISO/IEC 27001:2022** requirements.
 
 ---
 
@@ -34,7 +34,7 @@ To reflect real-world GRC operations in Germany while remaining accessible to in
 | **[03_Modellierung_Grundschutz_Check](./03_Modellierung_Grundschutz_Check)** | *Bausteine* selection, evidence check & gap register | BSI-Standard 200-2 / Kompendium | 📅 Planned |
 | **[04_Risikoanalyse_BSI_200_3](./04_Risikoanalyse_BSI_200_3)** | Risk assessment & treatment plan for high-risk assets | BSI-Standard 200-3 | 📅 Planned |
 | **[05_Realisierungsplanung_Reporting](./05_Realisierungsplanung_Reporting)** | Remediation roadmap & executive reporting | BSI-Standard 200-2 / Management | 📅 Planned |
-| **[06_ISO_27001_Mapping](./06_ISO_27001_Mapping)** | Cross-mapping BSI controls to ISO 27001 Annex A | ISO/IEC 27001:2022 | 📅 Planned |
+| **[06_ISO_27001_Mapping](./06_ISO_27001_Mapping)** | Cross-mapping BSI to ISO 27001 (Clauses 4–10, Annex A & SoA) | ISO/IEC 27001:2022 | 📅 Planned |
 
 ---
 
