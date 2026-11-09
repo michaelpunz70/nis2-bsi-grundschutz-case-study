@@ -14,7 +14,7 @@ This repository documents a structured, end-to-end Information Security Manageme
 - **Regulatory Analysis:** Translating BSIG/NIS2 legal obligations into operational governance.
 - **BSI Methodology:** Executing *Strukturanalyse*, *Schutzbedarfsfeststellung*, *Modellierung*, *IT-Grundschutz-Check* (BSI 200-2), and *Risikoanalyse* (BSI 200-3).
 - **Stakeholder & Evidence Management:** Handling incomplete information, conflicting operational priorities, and third-party vendor gaps.
-- **Cross-Framework Mapping:** Bridging German BSI IT-Grundschutz controls with international **ISO/IEC 27001:2022** requirements.
+- **[06_ISO_27001_Mapping](./06_ISO_27001_Mapping)** | Cross-mapping BSI to ISO 27001 (Clauses 4–10, Annex A & SoA) | ISO/IEC 27001:2022 | 📅 Planned |
 
 ---
 
