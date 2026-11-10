@@ -1,6 +1,6 @@
 # NIS2 & BSI IT-Grundschutz Implementation Case Study
 
-**End-to-end GRC & ISMS implementation simulation for a German Mittelstand manufacturer (BSIG/NIS2, BSI-Standards 200-2 & 200-3, ISO/IEC 27001:2022 Mapping).**
+**End-to-end GRC & ISMS implementation simulation for a German "Mittelstand" mid-sized manufacturer (BSIG/NIS2, BSI-Standards 200-2 & 200-3, ISO/IEC 27001:2022 Mapping).**
 
 > **Disclaimer:** *Müller Maschinenbau GmbH* is a completely fictional company created for educational and portfolio purposes. All data, assets, stakeholder communications, and findings are simulated. This repository demonstrates methodological competence and does not represent a real-world audit or certification.
 
