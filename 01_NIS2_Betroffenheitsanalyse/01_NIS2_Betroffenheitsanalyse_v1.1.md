@@ -15,11 +15,13 @@ Im Rahmen einer NIS-2-Betroffenheitsanalyse wird geprüft, ob das Unternehmen un
 
 Die Einstufung erfolgt anhand folgender Kriterien:
 
-Sektorzugehörigkeit
-Anzahl der Beschäftigten
-Jahresumsatz
-Jahresbilanzsumme
+- Sektorzugehörigkeit
+- Anzahl der Beschäftigten
+- Jahresumsatz
+- Jahresbilanzsumme
+
 Werden die maßgeblichen gesetzlichen Kriterien und Schwellenwerte erfüllt, kann daraus eine verpflichtende Registrierung beim BSI resultieren. Die entsprechenden Registrierungspflichten gelten in Deutschland seit Inkrafttreten des nationalen NIS-2-Umsetzungsgesetzes am 6. Dezember 2025.
+
 ---
 
 ## 2. Klassifizierungsanalyse
