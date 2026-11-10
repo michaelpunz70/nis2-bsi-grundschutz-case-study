@@ -39,7 +39,7 @@ Werden die maßgeblichen gesetzlichen Kriterien und Schwellenwerte erfüllt, kan
 |---|---|---|---|
 | Mitarbeiteranzahl | ≥50 | 148 | Ja |
 | Jahresumsatz | >10 Mio. € | 22 Mio. € | Ja |
-| Bilanzsumme | >10 Mio. € | offen (Rückfrage CEO) | k.A. |
+| Bilanzsumme | >10 Mio. € | 18,5 Mio. € | Ja |
 
 ---
 
@@ -90,9 +90,9 @@ Werden die maßgeblichen gesetzlichen Kriterien und Schwellenwerte erfüllt, kan
 ## 6. Offene Punkte / Rückfragen
 
 Unternehmensverflechtungen: Bestehen Mutter-, Tochter-, Schwester- oder Partnerunternehmen, deren Beschäftigtenzahlen und Finanzkennzahlen bei der Einstufung berücksichtigt werden müssen?
-
+Antort 10.11.26 vom CEO: eigenständige GmbH, kein konzern
 Bilanzsumme: Wie hoch ist die zuletzt veröffentlichte Jahresbilanzsumme des Unternehmens?
-
+Antwort 10.11.26 vom CEO: Bilanzsumme 18,5 Mio. €
 ---
 
 *Erstellt von: ISB, Müller Maschinenbau GmbH*
