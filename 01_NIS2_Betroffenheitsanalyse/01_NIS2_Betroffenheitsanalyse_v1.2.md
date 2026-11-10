@@ -89,13 +89,13 @@ Werden die maßgeblichen gesetzlichen Kriterien und Schwellenwerte erfüllt, kan
 
 ## 6. Offene Punkte / Rückfragen
 
-Unternehmensverflechtungen: Bestehen Mutter-, Tochter-, Schwester- oder Partnerunternehmen, deren Beschäftigtenzahlen und Finanzkennzahlen bei der Einstufung berücksichtigt werden müssen?
-Antort 10.11.26 vom CEO: eigenständige GmbH, kein konzern
-Bilanzsumme: Wie hoch ist die zuletzt veröffentlichte Jahresbilanzsumme des Unternehmens?
-Antwort 10.11.26 vom CEO: Bilanzsumme 18,5 Mio. €
+- Unternehmensverflechtungen: Bestehen Mutter-, Tochter-, Schwester- oder Partnerunternehmen, deren Beschäftigtenzahlen und Finanzkennzahlen bei der Einstufung berücksichtigt werden müssen?
+- Antort 10.11.26 vom CEO: eigenständige inhabergeführte GmbH, alleiniger Gesellschafter ist Herr Müller
+- Bilanzsumme: Wie hoch ist die zuletzt veröffentlichte Jahresbilanzsumme des Unternehmens?
+- Antwort 10.11.26 vom CEO: Bilanzsumme 18,5 Mio. €
 
 ---
 
 *Erstellt von: ISB, Müller Maschinenbau GmbH*
 *Datum: 10.11.2026*
-*Version: 1.1*
+*Version: 1.2*
