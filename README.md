@@ -29,12 +29,12 @@ To reflect real-world GRC operations in Germany while remaining accessible to in
 
 | Milestone | Focus Area | Framework / Standard | Status |
 | :--- | :--- | :--- | :--- |
-| **[01_NIS2_Betroffenheitsanalyse](./01_NIS2_Betroffenheitsanalyse)** | Preliminary regulatory applicability & obligations | BSIG / NIS2 Directive | 🔄 In Progress |
-| **[02_Strukturanalyse_Schutzbedarf](./02_Strukturanalyse_Schutzbedarf)** | Scope (*Informationsverbund*), assets & protection needs | BSI-Standard 200-2 | 📅 Planned |
+| **[01_NIS2_Betroffenheitsanalyse](./01_NIS2_Betroffenheitsanalyse)** | Preliminary regulatory applicability & obligations | BSIG / NIS2 Directive | ✅ Completed |
+| **[02_Strukturanalyse_Schutzbedarf](./02_Strukturanalyse_Schutzbedarf)** | Scope (*Informationsverbund*), assets & protection needs | BSI-Standard 200-2 | 🔄 In Progress |
 | **[03_Modellierung_Grundschutz_Check](./03_Modellierung_Grundschutz_Check)** | *Bausteine* selection, evidence check & gap register | BSI-Standard 200-2 / Kompendium | 📅 Planned |
 | **[04_Risikoanalyse_BSI_200_3](./04_Risikoanalyse_BSI_200_3)** | Risk assessment & treatment plan for high-risk assets | BSI-Standard 200-3 | 📅 Planned |
 | **[05_Realisierungsplanung_Reporting](./05_Realisierungsplanung_Reporting)** | Remediation roadmap & executive reporting | BSI-Standard 200-2 / Management | 📅 Planned |
-| **[06_ISO_27001_Mapping](./06_ISO_27001_Mapping)** | Cross-mapping BSI to ISO 27001 (Clauses 4–10, Annex A & SoA) | ISO/IEC 27001:2022 | 📅 Planned |
+| **[06_ISO_27001_Mapping](./06_ISO_27001_Mapping)** | Cross-mapping BSI to ISO 27001 (Clauses 4–10, Annex A & SoA) | ISO/IEC 27001:2022 | 📅 Planned | 
 
 ---
 
