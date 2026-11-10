@@ -93,6 +93,7 @@ Unternehmensverflechtungen: Bestehen Mutter-, Tochter-, Schwester- oder Partneru
 Antort 10.11.26 vom CEO: eigenständige GmbH, kein konzern
 Bilanzsumme: Wie hoch ist die zuletzt veröffentlichte Jahresbilanzsumme des Unternehmens?
 Antwort 10.11.26 vom CEO: Bilanzsumme 18,5 Mio. €
+
 ---
 
 *Erstellt von: ISB, Müller Maschinenbau GmbH*
