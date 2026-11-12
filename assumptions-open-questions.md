@@ -103,3 +103,13 @@ Points left open or assumed during the assessment, with the working assumption u
 - **Owner / action:** IT-Leiter (RPO confirmed); add a restore test as a measure in M5.
 - **My note (my words):** "The information I have received is that the RPO is 24h. What is not established is whether those backups can actually be restored at all, and how long recovery would take. Without a demonstrable restore test, recoverability is a hope, not a proven control: only the test would produce evidence of the actual recovery time (RTA) to compare against the target (RTO) — right now that figure is assumed, not measured. I treat it as a gap / residual risk to carry into M3 and a measure (restore test) in M5, not as evidence."
 - **Status:** Closed — RPO confirmed; untested restore flagged for M3/M5
+
+---
+
+### A-11 · MES failure — impact on production
+- **Milestone:** M2 · **Type:** Closed
+- **What we know:** Produktionsleiter Berger — if the MES fails, production can continue on paper for ca. 2–3 hours; after that the machines stop.
+- **Why it matters:** defines the Verfügbarkeit threshold for GP-03/GP-04 and SYS-08 (MES).
+- **Resolution:** MES failure → 2–3h paper fallback, then full production stop.
+- **Owner / action:** Produktionsleiter — confirmed.
+- **Status:** Closed — confirmed by Produktionsleiter (stakeholder email, M2)
