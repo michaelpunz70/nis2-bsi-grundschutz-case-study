@@ -18,6 +18,17 @@ This repository documents a structured, end-to-end Information Security Manageme
 
 ---
 
+## How This Project Was Built — Authorship & AI Use
+- **My role:** I act as the Information Security Officer and own the project end-to-end across all six milestones — methodology, analysis, classification and risk decisions, and the final review.
+- **AI as a tool:** used for regulatory research, stakeholder simulation and drafting support — not for the analytical decisions.
+- **Source grounding:** regulatory research and verification run against a dedicated Gemini Notebook loaded only with the original sources — BSI-Standards 200-1, 200-2, 200-3, 200-4, the IT-Grundschutz-Kompendium and the German BSIG (as enacted by the NIS2UmsuCG) — used as the single source of truth (queried or consulted directly), instead of relying on general AI knowledge or web search (see [`source-verification-notes.md`](source-verification-notes.md)).
+- **Traceability:** key decisions are logged in [`decision-log.md`](decision-log.md); assumptions and open items in [`assumptions-open-questions.md`](assumptions-open-questions.md).
+- **Verification culture:** where the AI was wrong on the law or on a module reference, I corrected it against the primary text — documented, with examples.
+
+> Ask me about any decision in this repo.
+
+---
+
 ## Language Strategy
 To reflect real-world GRC operations in Germany while remaining accessible to international hiring teams:
 - **Portfolio Framing (`README.md`, `SCENARIO.md`, `METHODOLOGY.md`) & Milestone 06:** English.
@@ -45,6 +56,9 @@ nis2-bsi-grundschutz-case-study/
 ├── README.md
 ├── SCENARIO.md
 ├── METHODOLOGY.md
+├── decision-log.md
+├── source-verification-notes.md
+├── assumptions-open-questions.md
 ├── 01_NIS2_Betroffenheitsanalyse/
 ├── 02_Strukturanalyse_Schutzbedarf/
 ├── 03_Modellierung_Grundschutz_Check/
