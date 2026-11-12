@@ -14,6 +14,10 @@
 | **GP&#8209;06** | Kern | Vertrieb | Angebotserstellung, Kundenakquise und Auftragsabwicklung | Vertriebsleiter (N.N.) |
 | **GP&#8209;07** | Kern | Versand & Logistik | Verpackung, Erstellung von Versand- und Transportdokumenten sowie Auslieferung | Leiter Versand / Logistik (N.N.) |
 | **GP&#8209;08** | Unterstützung | IT- & OT-Betrieb | Betrieb, Überwachung, Datensicherung und Absicherung der IT- und OT-Infrastruktur | Jens Hoffmann (IT-Leiter) |
-| **GP&#8209;09** | Unterstützung | Personalwesen (HR) | Personalbeschaffung, Zeiterfassung, Lohn- und Gehaltsabrechnung sowie Verwaltung von Mitarbeiterdaten | Personalleiter (N.N.) |
+| **GP&#8209;09** | Unterstützung | Personalwesen (HR) | Personalbeschaffung, Zeiterfassung, Lohn- und Gehaltsabrechnung sowie Verwaltung von Mitarbeiterdaten | Frau Krause (Personalleitung) |
 | **GP&#8209;10** | Unterstützung | Finanz- & Rechnungswesen | Debitoren- und Kreditorenbuchhaltung, Jahresabschlüsse und Zahlungsverkehr | Leiter Finanzen / Buchhaltung (N.N.) |
 | **GP&#8209;11** | Unterstützung | Einkauf & Lagerhaltung | Beschaffung von Rohstoffen und Ersatzteilen sowie Bestands- und Lagerverwaltung | Leiter Materialwirtschaft (N.N.) |
+
+---
+
+**Version:** v1.1 — GP-09 Prozessverantwortliche ergänzt (Frau Krause, Personalleitung); Quelle: GF-Mail vom 12.11.2026 (vgl. A-13).
