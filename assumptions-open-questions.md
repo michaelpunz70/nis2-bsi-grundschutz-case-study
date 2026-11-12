@@ -82,3 +82,13 @@ Points left open or assumed during the assessment, with the working assumption u
 - **Working assumption:** provisionally mapped under GP-04 (Produktion / Arbeitsvorbereitung). The USB transfer is treated as a security-relevant data path bridging the networked workstation and the shop floor, regardless of whether the CNC machines are air-gapped — their actual network isolation remains unconfirmed and is linked to A-05.
 - **Owner / action:** assign in the business-process map.
 - **Status:** Open / to decide
+
+---
+
+### A-09 · Production downtime — financial impact per day
+- **Milestone:** M2 · **Type:** Closed
+- **What we know:** Geschäftsführung confirmed — a full day of standstill costs ca. €80,000–100,000 (lost orders + contractual penalties); from day 3, breach of contract with the main OEM customer (~35% of turnover).
+- **Why it matters:** key input for the Schutzbedarfsfeststellung — Verfügbarkeit (availability) of the production processes (GP-03/GP-04) and the financial damage scenario.
+- **Resolution:** daily production loss ≈ €80–100k; contractual-breach risk from day 3.
+- **Owner / action:** Geschäftsführung — confirmed.
+- **Status:** Closed — confirmed by GF (stakeholder email, M2)
