@@ -92,3 +92,14 @@ Points left open or assumed during the assessment, with the working assumption u
 - **Resolution:** daily production loss ≈ €80–100k; contractual-breach risk from day 3.
 - **Owner / action:** Geschäftsführung — confirmed.
 - **Status:** Closed — confirmed by GF (stakeholder email, M2)
+
+---
+
+### A-10 · ERP backup — RPO confirmed, restore untested 🔴
+- **Milestone:** M2 · **Type:** Closed (with residual risk)
+- **What we know:** IT-Leiter — the CloudSecure backup runs nightly, so the RPO is at most 24h; but a full restore has never been tested.
+- **Why it matters:** the 24h RPO is confirmed, but an untested restore means the actual recovery time is unknown — a red flag for the Verfügbarkeit assessment and a Gap to carry into M3.
+- **Resolution:** RPO = 24h (confirmed); recoverability and actual recovery time = unknown (restore never tested) — treated as an assumption, not evidence.
+- **Owner / action:** IT-Leiter (RPO confirmed); add a restore test as a measure in M5.
+- **My note (my words):** "The information I have received is that the RPO is 24h. What is not established is whether those backups can actually be restored at all, and how long recovery would take. Without a demonstrable restore test, recoverability is a hope, not a proven control: only the test would produce evidence of the actual recovery time (RTA) to compare against the target (RTO) — right now that figure is assumed, not measured. I treat it as a gap / residual risk to carry into M3 and a measure (restore test) in M5, not as evidence."
+- **Status:** Closed — RPO confirmed; untested restore flagged for M3/M5
