@@ -23,12 +23,13 @@ Points left open or assumed during the assessment, with the working assumption u
 ---
 
 ### A-03 · proAlpha ↔ DATEV interface & payroll (Lohnabrechnung)
-- **Milestone:** M2 · **Type:** Assumption / Open question
-- **What we know:** DATEV (standard software used by tax advisors in Germany) was not explicitly named by stakeholders, though it is typical for a German Mittelstand. It is unclear whether accounting data is exported directly from proAlpha to the external tax advisor's DATEV system or maintained internally, and whether payroll (GP-09) is handled in-house or outsourced to the Steuerberater.
-- **Why it matters:** determines the ownership of financial-data flows, whether payroll processing is in-scope internally or an external interface, and the Schutzbedarf (protection requirements) of the accounting process.
-- **Working assumption:** direct export of accounting data from proAlpha to the tax advisor's DATEV account; payroll handling (internal vs. outsourced) to be confirmed.
-- **Owner / action:** clarify with Buchhaltung (accounting) / Geschäftsführung.
-- **Status:** Open
+- **Milestone:** M2 · **Type:** Closed (was Open)
+- **What we knew:** DATEV was not explicitly named by stakeholders (typical for a German Mittelstand). It was unclear whether accounting data is exported from proAlpha to the external tax advisor's DATEV or maintained internally, and whether payroll (GP-09) is handled in-house or outsourced to the Steuerberater.
+- **Why it matters:** determines whether DATEV is an in-scope application (APP) or an external dependency. Export-only means no DATEV instance in Müller's Informationsverbund.
+- **Working assumption (while open):** export-only — later confirmed.
+- **Resolution:** IT-Leiter Hoffmann confirmed — the Buchhaltung exports the accounting entries from proAlpha once a month and emails the file to the external Steuerberater; DATEV runs only at the tax advisor, not internally. Payroll follows the same external route.
+- **Owner / action:** IT-Leiter — confirmed.
+- **Status:** Closed — confirmed by IT-Leiter (stakeholder email, M2)
 
 ---
 
