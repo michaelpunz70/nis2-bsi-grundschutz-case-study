@@ -40,7 +40,7 @@ Cases where a regulatory or technical claim — including AI-generated suggestio
 ### SV-04 · Applicable entry-into-force date — national law vs EU directive deadline
 - **Milestone:** M1
 - **Claim under check:** which date governs applicability and obligations — the EU NIS2 Directive's transposition deadline (17 Oct 2024) or the German implementing law's entry into force?
-- **Primary source checked:** NIS2-Umsetzungs- und Cybersicherheitsstärkungsgesetz (NIS2UmsuCG) and EU NIS2 Directive (EU) 2022/2555.
+- **Primary source checked:** NIS2-Umsetzungs- und Cybersicherheitsstärkungsgesetz (NIS2UmsuCG) — the national implementing law. 
 - **Finding:** a directive is not directly applicable — it requires national transposition. Germany missed the EU transposition deadline (17 Oct 2024); the national law (NIS2UmsuCG) entered into force on 6 Dec 2025. Müller's obligations therefore key to the national Inkrafttreten (6 Dec 2025), not the EU deadline.
 - **Impact:** confirmed the reference date underpinning the "ab sofort" registration timing (see DEC-02); avoided anchoring obligations to the (missed) EU deadline or assuming direct applicability of the directive.
 - **My note (my words):** "Whenever EU directives are involved, you must always check when the national transposition actually enters into force in the country where the company is based—not just in Germany, but across any EU member state, since each country sets its own effective date. Here, the governing text is the German NIS2UmsuCG, not the EU deadline; getting this wrong would have meant prematurely triggering obligations or citing the wrong legal basis to the Geschäftsführung."
