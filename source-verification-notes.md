@@ -45,3 +45,14 @@ Cases where a regulatory or technical claim — including AI-generated suggestio
 - **Impact:** confirmed the reference date underpinning the "ab sofort" registration timing (see DEC-02); avoided anchoring obligations to the (missed) EU deadline or assuming direct applicability of the directive.
 - **My note (my words):** "Whenever EU directives are involved, you must always check when the national transposition actually enters into force in the country where the company is based—not just in Germany, but across any EU member state, since each country sets its own effective date. Here, the governing text is the German NIS2UmsuCG, not the EU deadline; getting this wrong would have meant prematurely triggering obligations or citing the wrong legal basis to the Geschäftsführung."
 - **Status:** Confirmed — 01_NIS2_Betroffenheitsanalyse v1.1
+
+--
+
+### SV-05 · BSI-Standard 200-2 — Kapitelverweis Schadensszenarien
+- **Milestone:** M2 — Schutzbedarfsfeststellung (protection-needs assessment)
+- **Claim under check:** AI suggestion — "Schadensszenarien are defined in Kap. 7.2 / Kap. 8.2".
+- **Primary source checked:** BSI-Standard 200-2 (Edition 2017), Inhaltsverzeichnis + Anhang 12.1.
+- **Finding:** Kap. 7 = Kern-Absicherung (7.5 Schutzbedarfsfeststellung). Kap. 8 = Standard-Absicherung: 8.2.1 Definition der Schutzbedarfskategorien, 8.2.3 Schutzbedarfsfeststellung für Geschäftsprozesse und Anwendungen. The six Schadensszenarien themselves are defined in Anhang 12.1, not in "8.2".
+- **Impact:** prevented an incorrect BSI chapter reference in the Schadensszenarien-Skala. Correct references: Kap. 8.2.1 (categories normal/hoch/sehr hoch) + Anhang 12.1 (6 damage scenarios).
+- **My note (my words):** "Without reliable, up-to-date sources loaded, the AI tends to guess — and since this has been recurring, I verify every citation against the original standard through to the end of this project. Rather than trusting its output, I ground it on the source documents and correct it when it drifts."
+- **Status:** Corrected — Schadensszenarien-Skala v1.0
