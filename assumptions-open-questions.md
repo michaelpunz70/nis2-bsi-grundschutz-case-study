@@ -7,7 +7,7 @@ Points left open or assumed during the assessment, with the working assumption u
 ### A-01 · Bilanzsumme (balance sheet total)
 - **Milestone:** M1 · **Type:** Closed
 - **What we knew:** not provided in the initial data; needed for the § 28 Abs. 2 size-threshold check.
-- **Resolution:** ca. €18.5M, confirmed by the Geschäftsführung (CEO, T. Müller) — plausible against €22M turnover.
+- **Resolution:** ca. €18 Million confirmed by the Geschäftsführung (CEO, T. Müller) — plausible against €22M Million turnover.
 - **Impact:** completes the threshold check; classification unchanged (wichtige Einrichtung).
 - **Status:** Closed — reflected in 01_NIS2_Betroffenheitsanalyse v1.2
 
@@ -15,7 +15,7 @@ Points left open or assumed during the assessment, with the working assumption u
 
 ### A-02 · Corporate structure (Konzernstruktur)
 - **Milestone:** M1 · **Type:** Closed
-- **What we knew:** unclear whether parent/subsidiary/partner entities would affect the size classification.
+- **What we knew:** unclear whether parent/subsidiary/partner entities would affect the size classification. €
 - **Resolution:** independent owner-managed GmbH; no group, no subsidiaries, no participations; sole shareholder T. Müller.
 - **Impact:** no aggregation of headcount/financials → classification unchanged.
 - **Status:** Closed — reflected in 01_NIS2_Betroffenheitsanalyse v1.2
@@ -124,3 +124,14 @@ Points left open or assumed during the assessment, with the working assumption u
 - **Owner / action:** Produktionsleiter — confirmed; feeds directly into the Schutzbedarfsfeststellung.
 - **My note (my words):** "The reason to classify this as 'sehr hoch' is that an integrity breach here is not a data or business problem, but operator safety: a manipulated CNC program can cause tool breakage and physical harm. Detection is only after the fact, once scrap parts appear, so there is no preventive control today. This overrides the Produktionsleiter's 'everything is fine' stance — safety is not negotiable. The missing detection/prevention control is carried as a gap into M3, with treatment options assessed in M4/M5."
 - **Status:** Closed — confirmed by Produktionsleiter (stakeholder email, M2)
+
+---
+
+### A-13 · BEM-Akten / Art. 9 DSGVO — special-category health data in the Informationsverbund
+- **Milestone:** M2 · **Type:** Open question
+- **What we know:** Geschäftsführung (stakeholder email, 12.11.2026): BEM-Akten (occupational-reintegration files) contain special-category health data under Art. 9 DSGVO. Held digitally in the **proAlpha HR-Modul** and additionally as a **physical folder at the Personalleitung** (new stakeholder: Frau Krause).
+- **Why it matters:** Art. 9 data raises the **Vertraulichkeit (confidentiality)** of the HR process and of proAlpha to "sehr hoch"; the physical folder extends the Informationsverbund scope to a Raum (Personalleitung office).
+- **Working assumption:** Classification driver confirmed (Vertraulichkeit = sehr hoch). Exact data scope and access rules (Zugriffsregelungen) not yet verified.
+- **Owner / action:** Frau Krause (Personalleitung) — confirm scope and access controls.
+- **My note (my words):** "I added this point because discovering Art. 9 DSGVO data in the BEM files—managed both digitally in proAlpha and physically by Frau Krause—completely changes the game for confidentiality. This means I can't just classify proAlpha HR as standard; I have to raise Vertraulichkeit to 'sehr hoch' for both the HR process and the application, and map the HR manager's office as a critical Raum in the next step. I definitely need to do a quick check with Frau Krause to verify exactly who has access rights to these files."
+- **Status:** Open — classification driver confirmed; scope/access pending (→ M3 Grundschutz-Check)
