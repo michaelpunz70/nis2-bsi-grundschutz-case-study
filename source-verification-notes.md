@@ -46,7 +46,7 @@ Cases where a regulatory or technical claim — including AI-generated suggestio
 - **My note (my words):** "Whenever EU directives are involved, you must always check when the national transposition actually enters into force in the country where the company is based—not just in Germany, but across any EU member state, since each country sets its own effective date. Here, the governing text is the German NIS2UmsuCG, not the EU deadline; getting this wrong would have meant prematurely triggering obligations or citing the wrong legal basis to the Geschäftsführung."
 - **Status:** Confirmed — 01_NIS2_Betroffenheitsanalyse v1.1
 
---
+---
 
 ### SV-05 · BSI-Standard 200-2 — Kapitelverweis Schadensszenarien
 - **Milestone:** M2 — Schutzbedarfsfeststellung (protection-needs assessment)
