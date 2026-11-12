@@ -113,3 +113,14 @@ Points left open or assumed during the assessment, with the working assumption u
 - **Resolution:** MES failure → 2–3h paper fallback, then full production stop.
 - **Owner / action:** Produktionsleiter — confirmed.
 - **Status:** Closed — confirmed by Produktionsleiter (stakeholder email, M2)
+
+---
+
+### A-12 · CNC program manipulation — safety risk 🔴
+- **Milestone:** M2 · **Type:** Closed (red flag)
+- **What we know:** Produktionsleiter Berger — manipulated CNC programs are only noticed once scrap parts appear; at the tolerances involved (±0.01mm) a wrong program can also cause tool breakage, dangerous for the operators.
+- **Why it matters:** elevates the Integrität (integrity) of the CNC/OT processes to "sehr hoch" (Schadensszenario 3: persönliche Unversehrtheit / personal safety) — the strongest driver for "sehr hoch" in the whole Informationsverbund.
+- **Resolution:** Integrität of CNC/OT = sehr hoch, driven by operator-safety impact.
+- **Owner / action:** Produktionsleiter — confirmed; feeds directly into the Schutzbedarfsfeststellung.
+- **My note (my words):** "The reason to classify this as 'sehr hoch' is that an integrity breach here is not a data or business problem, but operator safety: a manipulated CNC program can cause tool breakage and physical harm. Detection is only after the fact, once scrap parts appear, so there is no preventive control today. This overrides the Produktionsleiter's 'everything is fine' stance — safety is not negotiable. The missing detection/prevention control is carried as a gap into M3, with treatment options assessed in M4/M5."
+- **Status:** Closed — confirmed by Produktionsleiter (stakeholder email, M2)
