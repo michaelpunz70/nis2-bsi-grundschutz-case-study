@@ -6,7 +6,7 @@
 
 | ID | Anwendung | Typ / Betrieb | Unterstützte GP | Kurzbeschreibung |
 |:---|:----------|:--------------|:----------------|:-----------------|
-| **APP&#8209;01** | proAlpha ERP | On-Premise (Windows Server 2022) | GP&#8209;01, GP&#8209;06, GP&#8209;07, GP&#8209;10, GP&#8209;11 | Zentrales ERP-System für Auftragsabwicklung, Lieferscheine/Versand, Einkauf, Lagerhaltung und Finanzbuchhaltung |
+| **APP&#8209;01** | proAlpha ERP (inkl. HR-Modul) | On-Premise (Windows Server 2022) | GP&#8209;01, GP&#8209;06, GP&#8209;07, GP&#8209;09, GP&#8209;10, GP&#8209;11 | Zentrales ERP-System für Auftragsabwicklung, Lieferscheine/Versand, Einkauf, Lagerhaltung und Finanzbuchhaltung sowie Personalwirtschaft (HR-Modul mit BEM-Akten / Art.&#8201;9 DSGVO) |
 | **APP&#8209;02** | Microsoft 365 (Exchange Online, SharePoint, Teams, OneDrive) | Cloud (SaaS) | GP&#8209;01 – GP&#8209;11 (alle) | Plattform für E-Mail-Kommunikation, Dokumentenablage und Kollaboration |
 | **APP&#8209;03** | CAD/CAM-Software (Annahme: Autodesk Inventor o. ä.) | On-Premise (Workstations / Server) | GP&#8209;03, GP&#8209;04 | Software zur mechanischen/elektrischen Konstruktion sowie CAM-Programmierung (Annahme – Bestätigung erforderlich) |
 | **APP&#8209;04** | MES (Manufacturing Execution System) | Lokal (eigener Rechner in der Produktion) | GP&#8209;04, GP&#8209;05 | System zur Auftragssteuerung, Fertigungsplanung und Produktionsüberwachung vor Ort |
@@ -33,9 +33,13 @@
 - **CAD/CAM-Software (APP-03):** Welches konkrete CAD/CAM-System wird in der Konstruktion und Arbeitsvorbereitung eingesetzt?
 - **Datenablage:** Wo werden die Konstruktions- und CAM-Daten gespeichert (Fileserver, eigener CAD-Server oder lokal)?
 
-### An den Leiter Finanzen & Personalleiter (HR)
-- **Abgrenzung proAlpha vs. DATEV (APP-01 / APP-05):** Wird die operative Buchhaltung komplett in proAlpha abgewickelt und DATEV nur für Jahresabschluss / steuerliche Buchhaltung genutzt?
-- **Lohn- und Gehaltsabrechnung (GP-09):** Wird die Lohnabrechnung intern erstellt oder an einen externen Steuerberater ausgelagert?
+### An die Personalleitung (Frau Krause) & Leiter Finanzen
+- **Abgrenzung proAlpha HR-Modul vs. DATEV (APP-01 / APP-05):** Welche Personaldaten werden im proAlpha HR-Modul geführt (inkl. BEM-Akten / Art. 9 DSGVO) und welche in DATEV? Wo liegt die Lohn- und Gehaltsabrechnung?
+- **Zugriffsregelungen BEM-Akten:** Wer hat Zugriff auf die BEM-Akten im proAlpha HR-Modul sowie auf den physischen Aktenordner (vgl. A-13)?
 
 ### An den externen IT-Dienstleister (CloudSecure GmbH, Herr Weber)
 - **Backup-Umfang (APP-08):** Welche Anwendungen und Datenbestände genau werden täglich gesichert (nur Server DC, Fileserver, proAlpha – oder auch M365 und MES)?
+
+---
+
+**Version:** v1.1 — APP-01 um GP-09 ergänzt (proAlpha HR-Modul mit BEM-Akten / Art. 9 DSGVO); offene Frage zu Zugriffsregelungen ergänzt. Quelle: GF-Mail vom 12.11.2026 (vgl. A-13).
