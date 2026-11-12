@@ -1,0 +1,1 @@
+Simulierte Stakeholder-Kommunikation zur Nachvollziehbarkeit der Entscheidungsgrundlagen im Rahmen der Schutzbedarfsfeststellung.
