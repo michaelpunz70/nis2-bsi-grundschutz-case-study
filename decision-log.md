@@ -61,3 +61,13 @@ Key methodological and classification decisions, with the reasoning behind each.
 - **Decision:** (b).
 - **Rationale (my words):** "Because proAlpha touches everything from order entry and purchasing to logistics and financial accounting, applying the BSI Maximumprinzip means its availability and integrity cannot be compromised. Any prolonged outage here paralyzes the entire company, meaning its baseline protection requirements must be set high right from the start. (Note: Kept provisional for Milestone 2; formal Schutzbedarfsfeststellung follows in the next step)."
 - **Status:** Approved — 02_Strukturanalyse_Schutzbedarf v1.1
+
+---
+
+### DEC-07 · Personalleitung Office Carved Out as Separate Room R-08 (Art. 9 GDPR Data)
+- **Milestone:** M2 — Strukturanalyse (Räume / physical scope)
+- **Question:** How should the physical BEM files (special-category health data under Art. 9 GDPR) held at the Personalleitung be modeled — within the general office building (R-01) or as a dedicated room?
+- **Options:** (a) Keep them within R-01 and accept that the whole office building inherits "sehr hoch" confidentiality; (b) Carve out a dedicated room R-08 for the Personalleitung office, move HR/GP-09 there, and adjust R-01 accordingly.
+- **Decision:** (b).
+- **Rationale (my words):** "I chose option (b) because if we left the physical BEM files inside the general office building R-01, the Maximumprinzip would force the entire building's confidentiality up to 'sehr hoch' just because of one HR cabinet. By carving out the Personalleitung office as a dedicated room (R-08), we isolate the 'sehr hoch' requirement strictly where the Art. 9 data lives and keep R-01 properly proportioned. Saying 'it's locked in a cabinet' doesn't bypass the Grundschutz rules here—we need the physical separation. I'll verify the physical access controls and locking mechanisms during M3."
+- **Status:** Approved — 02_Strukturanalyse_Schutzbedarf v1.1
