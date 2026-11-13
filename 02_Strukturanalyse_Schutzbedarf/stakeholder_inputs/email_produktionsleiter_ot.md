@@ -2,7 +2,7 @@
 
 **Von:** Markus Wagner (Produktionsleiter)  
 **An:** ISB  
-**Datum:** 17. Oktober 2026  
+**Datum:** 13. November 2026  
 **Betreff:** Re: Anfrage Produktionsumgebung – IT-Sicherheitsprojekt
 
 ---
