@@ -71,3 +71,14 @@ Key methodological and classification decisions, with the reasoning behind each.
 - **Decision:** (b).
 - **Rationale (my words):** "I chose option (b) because if we left the physical BEM files inside the general office building R-01, the Maximumprinzip would force the entire building's confidentiality up to 'sehr hoch' just because of one HR cabinet. By carving out the Personalleitung office as a dedicated room (R-08), we isolate the 'sehr hoch' requirement strictly where the Art. 9 data lives and keep R-01 properly proportioned. Saying 'it's locked in a cabinet' doesn't bypass the Grundschutz rules here—we need the physical separation. I'll verify the physical access controls and locking mechanisms during M3."
 - **Status:** Approved — 02_Strukturanalyse_Schutzbedarf v1.1
+
+---
+
+### DEC-08 · Deliberate "Hoch" Calibration for Compliance, Finance and Shipping (Avoiding "Sehr hoch" Inflation)
+
+- **Milestone:** M2 — Schutzbedarfsfeststellung (Geschäftsprozesse)
+- **Question:** Should the Integrität of Compliance/NIS2 (GP-02) and Finance (GP-10), and the Verfügbarkeit (availability) of Shipping (GP-07), be rated "sehr hoch" or "hoch"?
+- **Options:** (a) Rate them "sehr hoch" to stay on the safe side; (b) Apply the proportionality test from the damage-scenario scale — reserve "sehr hoch" for existential/irreversible damage (safety, main-customer breach of contract, > 250k €, ruinous liability) and rate these three "hoch".
+- **Decision:** (b).
+- **Rationale (my words):** "I went with option (b) because inflating 'sehr hoch' ratings has a very real operational cost—in M3, every 'sehr hoch' rating triggers much heavier and more expensive security controls, so over-classifying just to play it safe isn't sustainable or defensible in an audit. Looking at the realistic worst case for a ~150-employee company: undetected tampering in Finance (GP-10) or Compliance/NIS2 documentation (GP-02) would definitely lead to heavy fines and serious legal headaches, which fits 'hoch', but the business would survive it. Similarly, an IT outage in Shipping (GP-07) can be bridged for 24–48 hours using warehouse buffers and manual Lieferscheine—unlike CNC production (GP-05), where every lost day burns straight into our 3-day contract-breach window with the main customer. Keeping 'sehr hoch' strictly for existential or irreversible damage (like safety, Art. 9 data, core IP, or a main-customer breach) keeps the risk model sharp and proportionate."
+- **Status:** Approved — Schutzbedarf_GP v1.0
