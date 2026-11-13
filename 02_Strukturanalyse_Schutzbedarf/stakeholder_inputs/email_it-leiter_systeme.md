@@ -2,7 +2,7 @@
 
 **Von:** Klaus Hoffmann (IT-Leiter)  
 **An:** ISB  
-**Datum:** 15. Oktober 2026  
+**Datum:** 12. November 2026  
 **Betreff:** Re: Anfrage Systemübersicht – Strukturanalyse
 
 ---
