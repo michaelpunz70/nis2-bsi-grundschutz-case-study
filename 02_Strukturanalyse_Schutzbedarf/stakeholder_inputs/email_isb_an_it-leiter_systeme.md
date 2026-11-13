@@ -2,7 +2,7 @@
 
 **Von:** ISB (Michael Punz)  
 **An:** Klaus Hoffmann (IT-Leiter)  
-**Datum:** 15. Oktober 2026  
+**Datum:** 11. Oktober 2026  
 **Betreff:** Anfrage Systemübersicht – Strukturanalyse IT-Sicherheit
 
 ---
