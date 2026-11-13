@@ -2,7 +2,7 @@
 
 **Von:** ISB (Michael Punz)  
 **An:** support@cloudsecure-backup.de (CloudSecure GmbH)  
-**Datum:** 18. Oktober 2026  
+**Datum:** 11. November 2026  
 **Betreff:** Anfrage Sicherheitsdokumentation & SLA – Müller Maschinenbau GmbH
 
 ---
@@ -25,7 +25,7 @@ Ich bitte um Bereitstellung folgender Unterlagen bzw. Informationen:
    Zertifizierungen?
 5. **Subdienstleister:** Werden Teile des Dienstes an Dritte ausgelagert?
 
-Bitte senden Sie die Unterlagen bis zum 25. Oktober an diese Adresse.
+Bitte senden Sie die Unterlagen bis zum 13. November an diese Adresse.
 
 Mit freundlichen Grüßen  
 M.Punz
