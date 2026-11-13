@@ -2,7 +2,7 @@
 
 **Von:** ISB (Michael Punz)  
 **An:** Markus Wagner (Produktionsleiter)  
-**Datum:** 15. Oktober 2026  
+**Datum:** 11. November 2026  
 **Betreff:** Anfrage Produktionsumgebung – IT-Sicherheitsprojekt
 
 ---
@@ -24,7 +24,7 @@ Ich bitte um kurze Auskunft zu folgenden Punkten:
 Ziel ist nicht, in den Produktionsbetrieb einzugreifen, sondern mögliche
 Risiken frühzeitig zu erkennen und gemeinsam abzusichern.
 
-Für Fragen stehe ich gerne zur Verfügung. Ich bitte um Rückmeldung bis 20. Oktober.
+Für Fragen stehe ich gerne zur Verfügung. Ich bitte um Rückmeldung bis 13. November.
 
 Mit freundlichen Grüßen  
 ISB — Müller Maschinenbau GmbH
